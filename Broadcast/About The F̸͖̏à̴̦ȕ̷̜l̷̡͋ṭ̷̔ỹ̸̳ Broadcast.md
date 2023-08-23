@@ -1,6 +1,6 @@
 ### BTS Of The F̸͖̏à̴̦ȕ̷̜l̷̡͋ṭ̷̔ỹ̸̳ Broadcast (Communication Series)
 
-
+<img src="IMG_3439.JPG" alt="drawing" width="300"/>
 
 The mp3 player that sent audio over to the FM Transmitter was an old overkill Olympus audio player and recorder.
 It has a backup battery in case of a power outage to keep the mp3 player active and not go to sleep. This does not power the transmitter.
